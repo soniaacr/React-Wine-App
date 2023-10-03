@@ -12,7 +12,7 @@ export const About = () => {
                 Whether you're a seasoned oenophile or a newcomer to the world of wine, our selection offers something to delight every palate. <br /> 
                 From crisp whites to bold reds, we invite you to explore the rich tapestry of flavors that our wines have to offer. <br />
                 Join us in raising a glass to life's special moments, toasting to new beginnings, and savoring the beauty of each sip. <br />
-                Experience the elegance and sophistication of [Your Company Name], where every bottle tells a unique story."
+                Experience the elegance and sophistication of Vintage Vibe, where every bottle tells a unique story."
         </div>
     )
 }
